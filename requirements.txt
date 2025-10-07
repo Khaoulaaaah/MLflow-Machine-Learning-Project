@@ -1,0 +1,21 @@
+pandas 
+mlflow==2.2.2
+notebook
+numpy
+scikit-learn
+matplotlib
+python-box==6.0.2
+#Easy access to disctionnary items
+pyYAML
+tqdm
+#Helps track long-running operations (like data processing, downloads, training models).
+#Gives instant feedback on how long a task will take.
+#Simple to integrate with minimal code changes.
+ensure==1.0.2
+joblib
+types-PyYAML
+Flask
+Flask-Cors
+-e .
+# Install this project in editable mode (link to source directory)
+# Changes in the source will reflect immediately without reinstalling
