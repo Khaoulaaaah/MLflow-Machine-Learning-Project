@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/souma/Documents/MLops/MLflow-Machine-Learning-Project/mlruns/0/865ed989c6e74230ace28847a451b3ac/artifacts
+end_time: 1759920427335
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 865ed989c6e74230ace28847a451b3ac
+run_name: defiant-asp-671
+run_uuid: 865ed989c6e74230ace28847a451b3ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759920418558
+status: 3
+tags: []
+user_id: souma
